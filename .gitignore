@@ -1,2 +1,9 @@
 temp/
 temp/*
+.env
+
+
+.venv
+/.venv
+.venv/*
+.venv/
